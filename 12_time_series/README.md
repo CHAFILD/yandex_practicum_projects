@@ -13,4 +13,4 @@
 
 ## Стек технологий:
 
-`Pandas` `Matplotlib`, `Numpy` `Scikit-learn` `Seaborn` `CatBoost` `LightGBM`
+`Pandas` `Matplotlib` `Seaborn` `Numpy` `Scikit-learn` `Statsmodels` `CatBoost`
