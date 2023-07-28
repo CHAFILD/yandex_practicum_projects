@@ -66,4 +66,4 @@
 Данные за 2016 год могут быть неполными.
 
 ## Используемые бибилиотеки
-`pandas` `numpy` `matplotlib.pyplot` `seaborn` `scipy`
+`Pandas` `Numpy` `Matplotlib` `Seaborn` `Scipy`
